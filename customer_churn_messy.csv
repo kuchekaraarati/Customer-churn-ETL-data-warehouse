@@ -1,0 +1,501 @@
+customer_id,customer_name,email,signup_date,last_login_date,region,subscription_plan,monthly_spend,support_tickets,feedback_text,churned
+ CUST1000 ,Rahul,,02-08-2025,24-11-2025,,Basic,-17.38,8,App crashes sometimes,0
+CUST1001,Aarav,user1@example.com,17-10-2025,14-11-2027,North,Premium,446.63,2,Great service,1
+CUST1002,Sneha,user2@example.com,22-04-2023,20-09-2024,West,PREMIUM,303,17,Excellent!,0
+CUST1003,John,user3@example.com,24-07-2023,29-10-2025,South,Premium,435.3,5,,1
+CUST1004,John,user4@example.com,21-11-2023,04-03-2024,,Basic,50.91,3,,1
+CUST1005,Fatima,user5@example.com,29-07-2024,29-01-2026,Central,Premium,66.79,12,,0
+CUST1006,Priya,user6@example.com,23-05-2022,08-07-2022,West,Enterprise,332.33,9,App crashes sometimes,0
+CUST1007,Sneha,user7@example.com,17-07-2024,28-04-2026,,Enterprise,417.88,5,,1
+CUST1008,Rahul,user8@example.com,31-10-2025,25-08-2027,West,basic,40.34,20,App crashes sometimes,0
+CUST1009,Sneha,user9@example.com,07-07-2023,22-04-2025,,Basic,345.64,7,Great service,1
+CUST1010,,user10@example.com,09-10-2023,22-11-2024,West,,137.53,6,App crashes sometimes,1
+CUST1011,,user11@example.com,28-07-2024,21-12-2024,East,Premium,136.12,7,Excellent!,1
+CUST1012,Rahul,user12@example.com,11-10-2022,15-03-2024,,,249.29,1,Need more features,0
+CUST1013,Aarav,user13@example.com,14-05-2024,14-01-2026,,,36.45,12,,1
+CUST1014,John,user14@example.com,23-08-2022,21-07-2024,West,Premium,442.97,8,Slow response from support,1
+CUST1015,John,user15@example.com,18-07-2024,21-07-2024,,,477.14,8,Slow response from support,0
+CUST1016,Fatima,user16@example.com,05-11-2024,21-07-2026,West,Basic,103.46,11,Great service,0
+CUST1017,Sneha,user17@example.com,18-08-2022,24-08-2023,Central,Basic,439.97,9,Great service,0
+CUST1018,,user18@example.com,25-06-2022,13-07-2024,Central,Premium,245.57,2,Need more features,0
+CUST1019,John,user19@example.com,27-06-2023,18-12-2024,West,,436.85,13,App crashes sometimes,0
+CUST1020,Sneha,user20@example.com,23-08-2025,09-09-2026,South,Basic,221.86,16,Slow response from support,1
+CUST1021,Priya,user21@example.com,24-11-2023,15-12-2023,,,296.21,7,Great service,0
+CUST1022,Sneha,user22@example.com,01-05-2022,21-12-2022,East,,38.36,1,Slow response from support,1
+CUST1023,,user23@example.com,21-09-2024,28-04-2025,,basic,271.92,18,App crashes sometimes,1
+CUST1024,,user24@example.com,25-01-2023,01-05-2023,West,,52.98,13,Excellent!,1
+CUST1025,,user25@example.com,21-04-2022,10-03-2024,,Enterprise,328.46,20,Great service,0
+CUST1026,,user26@example.com,12-08-2022,23-04-2023,South,Enterprise,99.84,17,Need more features,1
+CUST1027,Aarav,user27@example.com,05-08-2024,17-04-2025,,PREMIUM,437.87,2,Slow response from support,1
+CUST1028,,user28@example.com,31-01-2022,06-05-2022,West,Premium,463.55,7,Excellent!,0
+CUST1029,,,01-04-2024,31-05-2024,East,basic,86.5,0,,1
+CUST1030,Sneha,user30@example.com,12-02-2025,21-12-2026,North,PREMIUM,360.61,4,,0
+CUST1031,Rahul,user31@example.com,15-01-2025,18-03-2025,North,PREMIUM,375.25,1,very good,0
+CUST1032,,user32@example.com,14-06-2022,01-11-2024,North,PREMIUM,96.98,19,App crashes sometimes,0
+CUST1033,Fatima,user33@example.com,20-05-2023,01-01-2025,East,Premium,299.29,19,Excellent!,0
+CUST1034,John,user34@example.com,03-10-2025,06-10-2027,West,Enterprise,160.52,8,Need more features,1
+CUST1035,Sneha,user35@example.com,29-05-2022,07-06-2022,Central,Enterprise,231.85,18,Slow response from support,0
+CUST1036,Rahul,user36@example.com,29-09-2022,21-09-2023,West,,441.03,7,,1
+ CUST1037 ,Priya,user37@example.com,17-01-2025,07-01-2027,South,Enterprise,154.75,20,,0
+CUST1038,Sneha,user38@example.com,25-08-2022,12-12-2022,,Enterprise,372.5,4,,1
+CUST1039,Aarav,user39@example.com,21-02-2023,24-01-2025,North,,318.95,8,,1
+CUST1040,John,user40@example.com,17-05-2024,13-09-2026,South,,141.96,0,Need more features,1
+CUST1041,Priya,user41example.com,23-06-2024,08-01-2026,,Premium,354.31,17,Slow response from support,0
+CUST1042,Rahul,user42@example.com,22-01-2025,27-02-2025,North,Enterprise,418.12,18,Excellent!,0
+CUST1043,Sneha,user43@example.com,17-01-2024,11-04-2026,,Basic,-486.24,1,App crashes sometimes,1
+CUST1044,Rahul,user44@example.com,26-12-2023,03-03-2026,,,282.14,13,App crashes sometimes,0
+CUST1045,John,user45@example.com,29-12-2022,24-02-2024,South,,17.27,10,App crashes sometimes,1
+CUST1046,,user46@example.com,10-08-2022,05-09-2023,East,Enterprise,436.72,15,App crashes sometimes,0
+CUST1047,John,user47@example.com,12-04-2023,26-11-2023,,Basic,16.71,6,,1
+CUST1048,Priya,user48@example.com,26-07-2023,19-07-2024,East,Premium,322.53,12,Great service,1
+CUST1049,Fatima,user49@example.com,04-04-2025,31-12-2025,West,PREMIUM,23.94,19,,1
+CUST1050,Aarav,user50@example.com,13-11-2024,11-03-2025,,basic,195.67,18,,0
+CUST1051,,user51@example.com,04-01-2022,20-06-2023,North,,463.16,17,,0
+CUST1052,,user52@example.com,08-11-2023,07-08-2025,East,basic,160.39,3,,1
+CUST1053,John,user53@example.com,29-08-2023,18-03-2025,West,PREMIUM,68.01,13,Need more features,1
+CUST1054,,user54@example.com,01-01-2022,08-11-2022,West,,147.02,13,very good,1
+CUST1055,Fatima,user55@example.com,14-03-2023,18-08-2024,North,,239.23,5,,0
+CUST1056,Aarav,user56@example.com,27-04-2023,15-03-2025,South,basic,158.66,6,Great service,0
+CUST1057,,user57@example.com,05-06-2025,23-10-2027,West,basic,385.4,14,App crashes sometimes,1
+CUST1058,Sneha,,15-05-2023,13-10-2023,South,,329.75,0,Excellent!,0
+CUST1059,Rahul,user59@example.com,26-11-2024,16-03-2026,,basic,29.86,7,very good,0
+CUST1060,,user60@example.com,29-09-2025,26-03-2027,,PREMIUM,494.01,19,very good,1
+CUST1061,Sneha,user61@example.com,02-07-2024,11-12-2024,,,373.11,15,,1
+CUST1062,,user62@example.com,22-07-2023,13-09-2025,North,,389.95,15,,0
+CUST1063,Rahul,user63@example.com,09-08-2023,05-04-2024,South,basic,139.5,10,Need more features,0
+CUST1064,,user64@example.com,09-11-2022,01-11-2024,West,Basic,110.91,13,,1
+CUST1065,,user65@example.com,28-02-2023,29-06-2025,North,Enterprise,212.97,18,Excellent!,0
+CUST1066,Sneha,user66@example.com,04-09-2023,14-10-2025,East,basic,198.04,13,very good,0
+CUST1067,Rahul,user67@example.com,21-09-2024,20-10-2024,Central,PREMIUM,197.48,12,very good,0
+CUST1068,Rahul,user68@example.com,25-02-2022,04-04-2023,,basic,297.99,0,Excellent!,0
+CUST1069,Fatima,user69@example.com,08-01-2023,28-02-2023,East,,133.78,10,very good,0
+CUST1070,,user70@example.com,16-02-2024,26-11-2024,North,,377.24,13,Slow response from support,1
+CUST1071,Aarav,user71@example.com,09-01-2025,03-03-2025,,Basic,499.95,11,Slow response from support,0
+CUST1072,Rahul,user72@example.com,22-05-2023,12-12-2023,West,,420.42,19,App crashes sometimes,0
+CUST1073,Rahul,user73@example.com,23-08-2022,22-03-2024,Central,PREMIUM,474.14,14,,1
+ CUST1074 ,John,user74@example.com,23-08-2022,27-10-2024,Central,,410.55,9,Great service,0
+CUST1075,Priya,user75@example.com,08-02-2024,20-03-2025,,,471.03,6,App crashes sometimes,0
+CUST1076,,user76@example.com,10-09-2023,27-01-2026,,Enterprise,343.71,3,,0
+CUST1077,Priya,user77@example.com,22-05-2022,22-10-2023,West,Enterprise,325.53,0,very good,1
+CUST1078,John,user78@example.com,25-07-2025,20-11-2027,Central,,232.57,4,Need more features,1
+CUST1079,Sneha,user79@example.com,07-01-2025,11-03-2027,,Basic,244.33,13,,1
+CUST1080,Aarav,user80@example.com,26-07-2023,29-10-2024,West,,125.71,14,,1
+CUST1081,John,user81@example.com,28-10-2023,01-05-2024,Central,,246.34,11,,1
+CUST1082,,user82example.com,20-07-2023,08-02-2025,West,PREMIUM,10.02,6,App crashes sometimes,0
+CUST1083,Priya,user83@example.com,08-05-2023,14-04-2025,East,Premium,240.67,15,Great service,1
+CUST1084,Fatima,user84@example.com,08-04-2024,17-03-2026,West,,125.44,18,very good,1
+CUST1085,John,user85@example.com,01-02-2025,05-01-2026,South,Basic,179.15,14,,1
+CUST1086,Sneha,user86@example.com,30-01-2023,19-12-2023,,basic,-64.18,17,App crashes sometimes,0
+CUST1087,Sneha,,21-07-2023,31-07-2025,East,Premium,296.85,16,Slow response from support,1
+CUST1088,Aarav,user88@example.com,10-01-2024,11-07-2024,North,PREMIUM,154.62,17,,0
+CUST1089,Aarav,user89@example.com,22-08-2023,05-08-2025,Central,Enterprise,472.32,20,Slow response from support,1
+CUST1090,,user90@example.com,19-08-2024,22-12-2025,North,,223.03,5,,0
+CUST1091,Rahul,user91@example.com,14-05-2022,28-06-2023,,PREMIUM,248.41,18,Need more features,0
+CUST1092,,user92@example.com,15-09-2023,11-12-2023,West,basic,496.99,3,App crashes sometimes,1
+CUST1093,Priya,user93@example.com,01-09-2023,28-01-2026,,Premium,296.32,13,Great service,1
+CUST1094,Rahul,user94@example.com,05-07-2025,06-02-2026,Central,Basic,136,2,App crashes sometimes,0
+CUST1095,Aarav,user95@example.com,17-11-2022,19-11-2022,South,Enterprise,207.22,19,,1
+CUST1096,Sneha,user96@example.com,03-08-2023,22-07-2025,West,Basic,430.51,2,,0
+CUST1097,Aarav,user97@example.com,20-01-2025,07-09-2025,South,,325.58,8,Slow response from support,0
+CUST1098,Priya,user98@example.com,22-09-2023,23-05-2025,West,,375.73,18,very good,1
+CUST1099,Priya,user99@example.com,15-09-2023,31-08-2025,Central,Basic,204.24,8,very good,1
+CUST1100,Sneha,user100@example.com,03-06-2024,25-06-2026,,,164.55,8,Slow response from support,0
+CUST1101,,user101@example.com,24-03-2025,15-11-2026,Central,,475.64,8,Need more features,0
+CUST1102,Priya,user102@example.com,24-06-2024,04-04-2025,West,Enterprise,94.84,18,very good,1
+CUST1103,,user103@example.com,16-04-2024,23-03-2025,,basic,163.92,3,,0
+CUST1104,Priya,user104@example.com,14-08-2023,22-06-2025,East,Enterprise,472.87,17,very good,0
+CUST1105,,user105@example.com,25-10-2023,20-02-2024,North,Premium,485.24,12,very good,0
+CUST1106,Sneha,user106@example.com,27-11-2024,02-12-2025,East,PREMIUM,313.2,15,Great service,1
+CUST1107,Sneha,user107@example.com,26-09-2022,17-07-2023,,Premium,221.87,15,Great service,0
+CUST1108,Priya,user108@example.com,29-09-2023,15-04-2025,West,Basic,11.77,13,App crashes sometimes,0
+CUST1109,,user109@example.com,19-08-2025,19-12-2027,West,Premium,81.22,9,Excellent!,1
+CUST1110,John,user110@example.com,24-07-2024,08-02-2026,,,76.6,6,Slow response from support,0
+ CUST1111 ,John,user111@example.com,29-04-2024,12-04-2025,,Enterprise,467.45,16,Great service,1
+CUST1112,,user112@example.com,17-04-2025,01-12-2026,East,Enterprise,499.46,15,very good,0
+CUST1113,Sneha,user113@example.com,04-02-2025,27-03-2027,Central,basic,274,14,App crashes sometimes,1
+CUST1114,,user114@example.com,24-04-2023,16-09-2025,West,,388.89,1,very good,1
+CUST1115,Priya,user115@example.com,28-08-2025,30-01-2026,,,250.19,1,,0
+CUST1116,,,20-06-2024,30-09-2024,,,265.35,14,Need more features,0
+CUST1117,Priya,user117@example.com,13-11-2022,28-01-2023,,Enterprise,237.4,8,Excellent!,1
+CUST1118,Priya,user118@example.com,13-10-2025,10-03-2028,South,,269.14,10,Great service,1
+CUST1119,,user119@example.com,12-08-2023,31-03-2024,South,,374.65,13,Slow response from support,0
+CUST1120,Fatima,user120@example.com,06-09-2023,05-10-2023,West,Premium,27.77,1,,1
+CUST1121,Priya,user121@example.com,16-05-2023,09-11-2024,Central,,208.97,5,Need more features,0
+CUST1122,,user122@example.com,23-02-2024,18-11-2025,,Enterprise,343.15,15,App crashes sometimes,0
+CUST1123,Priya,user123example.com,30-07-2024,17-04-2025,West,Enterprise,335.09,14,Need more features,1
+CUST1124,John,user124@example.com,18-04-2025,18-02-2026,South,basic,321.27,13,very good,1
+CUST1125,John,user125@example.com,16-09-2024,03-01-2025,North,,122.42,18,,1
+CUST1126,John,user126@example.com,10-09-2025,20-10-2026,,,140.87,18,very good,0
+CUST1127,Rahul,user127@example.com,17-04-2023,28-12-2024,,Basic,401.96,7,,0
+CUST1128,Rahul,user128@example.com,09-07-2025,01-05-2027,North,Enterprise,24.51,14,,0
+CUST1129,John,user129@example.com,01-11-2023,05-12-2025,,Premium,-210.67,6,,0
+CUST1130,,user130@example.com,11-06-2023,02-10-2025,North,Premium,472.37,9,Slow response from support,1
+CUST1131,,user131@example.com,08-04-2023,04-09-2025,North,Enterprise,339.78,12,Slow response from support,1
+CUST1132,Priya,user132@example.com,03-01-2025,09-05-2025,,Premium,230.12,8,,1
+CUST1133,Priya,user133@example.com,23-08-2024,17-09-2024,,,311.68,17,App crashes sometimes,1
+CUST1134,Aarav,user134@example.com,08-08-2024,26-07-2026,North,Enterprise,154.58,13,Need more features,0
+CUST1135,,user135@example.com,05-10-2024,31-01-2025,East,,53.11,17,Excellent!,0
+CUST1136,,user136@example.com,11-01-2025,16-03-2026,Central,basic,295.73,4,Slow response from support,1
+CUST1137,Sneha,user137@example.com,27-07-2023,29-08-2023,,Enterprise,346.69,6,very good,1
+CUST1138,,user138@example.com,23-07-2022,24-06-2024,East,Premium,186.83,20,Great service,1
+CUST1139,Aarav,user139@example.com,08-09-2022,23-01-2025,,Enterprise,412.97,2,Great service,0
+CUST1140,Sneha,user140@example.com,14-05-2023,19-09-2023,,,394.55,6,App crashes sometimes,0
+CUST1141,Rahul,user141@example.com,23-04-2023,24-03-2024,South,PREMIUM,388.31,19,,0
+CUST1142,Fatima,user142@example.com,29-05-2023,23-08-2025,,,91.38,0,Great service,0
+CUST1143,Rahul,user143@example.com,03-05-2023,25-12-2024,,basic,165.27,5,Great service,1
+CUST1144,Priya,user144@example.com,13-12-2024,08-04-2025,West,PREMIUM,374.1,15,,1
+CUST1145,Aarav,,30-03-2023,18-12-2024,North,basic,26.47,16,very good,1
+CUST1146,Priya,user146@example.com,02-04-2024,12-06-2025,East,PREMIUM,344.62,15,Slow response from support,1
+CUST1147,John,user147@example.com,31-10-2022,06-01-2023,West,PREMIUM,67.46,19,Excellent!,1
+ CUST1148 ,,user148@example.com,24-05-2025,07-08-2026,South,basic,54.09,3,Excellent!,0
+CUST1149,,user149@example.com,26-11-2023,22-03-2026,East,,229.48,13,,0
+CUST1150,Priya,user150@example.com,07-06-2023,24-06-2024,North,basic,477.03,15,Slow response from support,0
+CUST1151,Priya,user151@example.com,17-07-2022,17-08-2024,West,Enterprise,370.7,4,,0
+CUST1152,Fatima,user152@example.com,24-09-2025,01-11-2027,North,PREMIUM,214.35,1,,1
+CUST1153,Fatima,user153@example.com,05-11-2024,10-06-2025,,PREMIUM,81.59,15,Slow response from support,0
+CUST1154,Aarav,user154@example.com,23-01-2024,19-05-2024,Central,,382.49,18,Excellent!,0
+CUST1155,Aarav,user155@example.com,02-07-2023,31-07-2023,South,,94.31,9,,1
+CUST1156,Priya,user156@example.com,21-10-2022,22-05-2024,,PREMIUM,330.39,2,Great service,0
+CUST1157,John,user157@example.com,17-03-2023,05-04-2024,,Enterprise,212.82,10,,0
+CUST1158,Aarav,user158@example.com,08-03-2025,08-11-2026,,Basic,47.05,1,Need more features,0
+CUST1159,John,user159@example.com,12-07-2023,07-10-2024,South,,332.66,15,Excellent!,1
+CUST1160,John,user160@example.com,15-11-2024,11-03-2025,North,Premium,175.86,3,very good,1
+CUST1161,Rahul,user161@example.com,20-03-2024,23-11-2025,,Enterprise,32.12,6,App crashes sometimes,1
+CUST1162,Rahul,user162@example.com,16-08-2023,16-07-2024,West,PREMIUM,64.39,15,Need more features,1
+CUST1163,Aarav,user163@example.com,17-04-2023,10-09-2024,West,Basic,281.57,11,Excellent!,0
+CUST1164,,user164example.com,30-07-2024,17-10-2024,East,Basic,431.74,18,Excellent!,1
+CUST1165,Priya,user165@example.com,09-04-2024,30-04-2024,West,,483.27,5,,1
+CUST1166,John,user166@example.com,05-08-2022,11-04-2023,,Enterprise,220.66,12,Excellent!,0
+CUST1167,Fatima,user167@example.com,30-03-2023,05-03-2024,East,,390.66,2,App crashes sometimes,0
+CUST1168,Sneha,user168@example.com,14-08-2025,26-11-2027,South,PREMIUM,78.11,3,,0
+CUST1169,,user169@example.com,10-11-2022,27-12-2024,,PREMIUM,380.78,2,very good,0
+CUST1170,Rahul,user170@example.com,01-04-2025,04-07-2026,West,Basic,342.16,18,,1
+CUST1171,Priya,user171@example.com,18-08-2024,13-11-2025,East,basic,317.54,8,,0
+CUST1172,,user172@example.com,14-07-2024,21-08-2024,West,PREMIUM,-33.16,9,Slow response from support,0
+CUST1173,Fatima,user173@example.com,09-02-2025,30-04-2027,Central,basic,370.77,1,App crashes sometimes,1
+CUST1174,Priya,,23-10-2024,26-03-2025,Central,,479.07,14,,0
+CUST1175,Fatima,user175@example.com,20-12-2022,29-01-2023,East,Enterprise,127.63,14,Need more features,1
+CUST1176,Priya,user176@example.com,04-03-2024,26-04-2025,East,Basic,388.36,19,,0
+CUST1177,Priya,user177@example.com,16-02-2025,11-01-2027,Central,,196.35,8,,0
+CUST1178,Priya,user178@example.com,17-10-2022,10-10-2023,East,PREMIUM,158.56,20,Need more features,1
+CUST1179,Fatima,user179@example.com,11-02-2024,30-11-2025,North,Enterprise,396.87,4,Excellent!,0
+CUST1180,Sneha,user180@example.com,25-09-2023,27-03-2024,South,Premium,475.83,10,App crashes sometimes,1
+CUST1181,Rahul,user181@example.com,08-06-2022,06-04-2023,Central,basic,422.99,3,,0
+CUST1182,Aarav,user182@example.com,12-11-2022,27-04-2023,West,Enterprise,94.52,19,very good,0
+CUST1183,Sneha,user183@example.com,17-10-2025,23-10-2027,Central,Premium,122.58,14,very good,1
+CUST1184,,user184@example.com,26-09-2023,01-01-2026,,Enterprise,393.26,6,very good,1
+ CUST1185 ,John,user185@example.com,22-02-2024,20-07-2025,North,,266.09,5,Need more features,0
+CUST1186,Priya,user186@example.com,11-09-2024,23-02-2027,,Premium,188.75,3,,0
+CUST1187,Sneha,user187@example.com,13-07-2023,15-10-2024,,basic,453.13,4,Slow response from support,1
+CUST1188,,user188@example.com,17-12-2023,13-01-2024,North,Enterprise,210.37,12,App crashes sometimes,1
+CUST1189,Rahul,user189@example.com,05-04-2023,03-05-2023,North,Enterprise,162.75,3,Need more features,1
+CUST1190,Priya,user190@example.com,25-08-2024,07-08-2026,North,Enterprise,416.4,15,Great service,1
+CUST1191,John,user191@example.com,18-03-2023,20-07-2025,South,Enterprise,79.01,19,Slow response from support,1
+CUST1192,Priya,user192@example.com,07-09-2022,25-10-2022,,basic,123.03,20,Slow response from support,1
+CUST1193,John,user193@example.com,07-05-2025,06-11-2026,West,Basic,13.14,16,Need more features,0
+CUST1194,Fatima,user194@example.com,13-06-2025,09-06-2026,North,PREMIUM,124.08,13,Slow response from support,0
+CUST1195,,user195@example.com,19-01-2025,22-06-2026,North,,394.27,16,Excellent!,0
+CUST1196,Fatima,user196@example.com,03-03-2024,20-03-2025,South,,130.56,0,Slow response from support,1
+CUST1197,Aarav,user197@example.com,07-09-2025,12-06-2027,East,PREMIUM,56.31,18,Need more features,1
+CUST1198,Rahul,user198@example.com,25-11-2023,07-03-2026,North,,323.18,14,Need more features,1
+CUST1199,Fatima,user199@example.com,26-07-2024,01-09-2024,East,PREMIUM,150.25,1,Great service,0
+CUST1200,John,user200@example.com,26-03-2024,08-07-2026,East,,273.8,8,App crashes sometimes,0
+CUST1201,,user201@example.com,08-04-2022,10-09-2024,West,,329.59,8,,0
+CUST1202,Fatima,user202@example.com,19-06-2024,19-07-2025,,PREMIUM,172.82,5,very good,1
+CUST1203,Rahul,,01-07-2023,28-09-2025,Central,Enterprise,45.89,13,Excellent!,0
+CUST1204,,user204@example.com,20-10-2023,02-02-2024,South,,44.63,9,very good,1
+CUST1205,Aarav,user205example.com,28-06-2024,22-06-2025,North,,226.33,11,,1
+CUST1206,,user206@example.com,29-07-2025,17-09-2026,North,Premium,184.84,5,Need more features,0
+CUST1207,Aarav,user207@example.com,18-05-2022,14-01-2023,Central,Premium,390.37,11,Excellent!,1
+CUST1208,Rahul,user208@example.com,22-10-2025,25-01-2027,Central,Enterprise,474.67,11,Slow response from support,1
+CUST1209,Rahul,user209@example.com,26-03-2024,10-02-2025,West,PREMIUM,326.53,7,Great service,0
+CUST1210,John,user210@example.com,03-03-2024,29-09-2025,,basic,63.29,8,App crashes sometimes,1
+CUST1211,,user211@example.com,14-02-2023,19-06-2023,North,,72.19,2,Need more features,1
+CUST1212,John,user212@example.com,28-10-2025,11-03-2028,,Premium,493.35,11,,0
+CUST1213,Sneha,user213@example.com,30-07-2025,24-01-2026,,Premium,397.88,16,Slow response from support,0
+CUST1214,Rahul,user214@example.com,30-04-2023,17-07-2025,Central,Basic,249.54,11,very good,1
+CUST1215,Priya,user215@example.com,15-05-2022,27-03-2023,South,Enterprise,-202.09,15,Excellent!,1
+CUST1216,Rahul,user216@example.com,08-08-2025,22-10-2025,,Premium,227.74,16,Need more features,1
+CUST1217,John,user217@example.com,05-06-2024,01-11-2025,South,Premium,455.8,1,Need more features,0
+CUST1218,John,user218@example.com,23-10-2023,18-10-2025,South,,116.61,16,Slow response from support,1
+CUST1219,Rahul,user219@example.com,02-02-2025,10-11-2025,South,,66.96,9,Need more features,0
+CUST1220,Priya,user220@example.com,02-07-2025,09-07-2027,North,,451.49,10,Great service,0
+CUST1221,,user221@example.com,27-03-2025,23-12-2025,,PREMIUM,327.31,18,Great service,1
+ CUST1222 ,John,user222@example.com,17-08-2023,04-06-2025,West,Basic,478.54,15,Excellent!,0
+CUST1223,Fatima,user223@example.com,03-05-2022,11-10-2022,Central,Premium,222.6,15,App crashes sometimes,1
+CUST1224,Fatima,user224@example.com,03-10-2023,03-03-2026,Central,PREMIUM,360.59,11,Need more features,1
+CUST1225,Sneha,user225@example.com,06-08-2022,28-06-2023,South,Basic,124.66,3,very good,1
+CUST1226,Rahul,user226@example.com,14-04-2022,05-02-2023,,Enterprise,472.97,19,App crashes sometimes,1
+CUST1227,,user227@example.com,29-03-2025,06-04-2027,East,basic,159.79,5,very good,1
+CUST1228,Sneha,user228@example.com,17-02-2022,20-05-2022,Central,Enterprise,472.89,16,App crashes sometimes,1
+CUST1229,Aarav,user229@example.com,10-04-2022,31-05-2022,,Basic,144.27,19,,1
+CUST1230,Aarav,user230@example.com,01-06-2024,16-10-2024,West,Basic,441.82,11,,1
+CUST1231,,user231@example.com,13-03-2025,09-10-2026,Central,basic,101.35,17,Slow response from support,1
+CUST1232,Priya,,31-01-2025,13-11-2025,West,Enterprise,413.53,19,Need more features,0
+CUST1233,Aarav,user233@example.com,26-11-2023,19-06-2025,North,Basic,469.78,4,Excellent!,0
+CUST1234,Rahul,user234@example.com,08-10-2022,07-10-2024,East,PREMIUM,169.86,15,Need more features,1
+CUST1235,,user235@example.com,15-10-2023,29-03-2024,,PREMIUM,199.51,19,,1
+CUST1236,,user236@example.com,06-09-2023,04-01-2025,Central,Enterprise,408.8,11,Slow response from support,1
+CUST1237,,user237@example.com,12-07-2025,08-08-2025,South,PREMIUM,300.47,8,Great service,0
+CUST1238,Aarav,user238@example.com,12-07-2025,20-07-2027,Central,,311.77,12,App crashes sometimes,0
+CUST1239,,user239@example.com,14-08-2022,25-02-2023,,Premium,14.37,10,Need more features,1
+CUST1240,Sneha,user240@example.com,20-04-2024,15-09-2025,Central,Enterprise,388.61,15,Need more features,0
+CUST1241,Fatima,user241@example.com,18-09-2025,20-01-2027,Central,Enterprise,265.11,10,very good,0
+CUST1242,Sneha,user242@example.com,16-10-2025,15-12-2027,South,Enterprise,434.49,20,very good,1
+CUST1243,,user243@example.com,16-02-2025,18-12-2025,East,basic,116.31,9,App crashes sometimes,1
+CUST1244,,user244@example.com,16-12-2023,11-07-2025,West,,467.18,8,Slow response from support,1
+CUST1245,Priya,user245@example.com,08-12-2023,06-02-2026,East,basic,403.28,9,,0
+CUST1246,John,user246example.com,05-09-2025,25-05-2026,South,Basic,374.93,6,,0
+CUST1247,Sneha,user247@example.com,14-06-2025,12-07-2027,North,Basic,295.48,7,App crashes sometimes,0
+CUST1248,Rahul,user248@example.com,26-04-2024,30-03-2025,West,,360.09,3,Great service,0
+CUST1249,Aarav,user249@example.com,01-09-2024,02-01-2026,,Basic,327.02,9,,1
+CUST1250,Rahul,user250@example.com,28-08-2025,07-04-2027,North,,119.95,1,Excellent!,0
+CUST1251,John,user251@example.com,24-03-2024,08-06-2026,Central,PREMIUM,250.22,9,Great service,0
+CUST1252,,user252@example.com,08-08-2022,17-07-2023,East,Premium,145.86,20,Need more features,1
+CUST1253,Aarav,user253@example.com,19-08-2022,23-07-2023,,Enterprise,85.43,14,Need more features,1
+CUST1254,,user254@example.com,28-08-2023,31-03-2025,Central,Enterprise,338.83,6,Excellent!,0
+CUST1255,Fatima,user255@example.com,27-06-2022,11-08-2023,South,Basic,336.28,5,very good,0
+CUST1256,Aarav,user256@example.com,19-06-2023,15-07-2024,East,,121.58,8,,1
+CUST1257,Rahul,user257@example.com,07-01-2024,16-12-2025,West,,121.97,3,,1
+CUST1258,Sneha,user258@example.com,26-10-2024,16-10-2026,South,Premium,-386.07,3,,1
+ CUST1259 ,,user259@example.com,06-09-2024,09-02-2025,,PREMIUM,230.21,19,Excellent!,1
+CUST1260,Fatima,user260@example.com,22-09-2025,15-01-2028,North,PREMIUM,113.11,7,very good,0
+CUST1261,Rahul,,18-08-2022,20-10-2022,East,,415.24,16,Need more features,0
+CUST1262,,user262@example.com,01-12-2024,26-02-2026,,Basic,62.54,6,Slow response from support,1
+CUST1263,John,user263@example.com,17-07-2024,29-11-2024,,Basic,259.06,14,very good,0
+CUST1264,,user264@example.com,21-03-2024,06-12-2024,East,,409.14,6,Great service,0
+CUST1265,John,user265@example.com,11-05-2022,16-11-2023,West,Premium,497.09,2,Great service,1
+CUST1266,,user266@example.com,05-10-2022,27-11-2024,West,,322.55,20,,1
+CUST1267,Priya,user267@example.com,13-02-2024,03-03-2025,South,PREMIUM,44.72,17,,0
+CUST1268,John,user268@example.com,15-03-2024,07-09-2025,West,,68.04,7,Great service,0
+CUST1269,Fatima,user269@example.com,20-01-2025,30-03-2026,South,Enterprise,268.31,7,very good,0
+CUST1270,Aarav,user270@example.com,22-01-2023,06-07-2025,South,Premium,363.89,3,Excellent!,0
+CUST1271,Aarav,user271@example.com,18-05-2022,29-08-2022,West,basic,299,14,App crashes sometimes,0
+CUST1272,Sneha,user272@example.com,25-04-2023,28-10-2024,,,112.55,1,,0
+CUST1273,Rahul,user273@example.com,25-03-2025,14-02-2026,,PREMIUM,290.85,10,,0
+CUST1274,,user274@example.com,29-03-2023,25-05-2024,North,Enterprise,153.75,1,Excellent!,0
+CUST1275,,user275@example.com,10-08-2025,28-06-2027,South,Enterprise,193.67,16,Excellent!,1
+CUST1276,John,user276@example.com,10-02-2024,16-08-2024,,,378.44,15,App crashes sometimes,0
+CUST1277,Rahul,user277@example.com,23-10-2022,25-01-2025,West,Premium,234.2,1,Excellent!,1
+CUST1278,Priya,user278@example.com,07-06-2023,01-01-2024,Central,,168.48,2,,1
+CUST1279,Sneha,user279@example.com,26-01-2023,19-03-2023,,,137.89,19,Slow response from support,0
+CUST1280,Fatima,user280@example.com,18-04-2025,29-04-2027,East,Basic,337.37,6,App crashes sometimes,1
+CUST1281,Sneha,user281@example.com,10-03-2023,20-09-2023,West,Premium,481.23,3,App crashes sometimes,1
+CUST1282,John,user282@example.com,04-02-2025,30-12-2025,East,Enterprise,388.88,12,,1
+CUST1283,Fatima,user283@example.com,16-11-2024,09-04-2026,East,basic,235.67,15,App crashes sometimes,1
+CUST1284,,user284@example.com,04-04-2022,01-11-2023,East,Premium,432.72,4,,0
+CUST1285,Fatima,user285@example.com,06-02-2023,09-01-2024,East,,118.86,18,very good,0
+CUST1286,Fatima,user286@example.com,27-09-2024,07-10-2026,South,Premium,322.64,15,Need more features,1
+CUST1287,Priya,user287example.com,24-01-2025,08-06-2026,,,96.1,17,Great service,0
+CUST1288,Rahul,user288@example.com,10-04-2022,31-05-2024,North,Premium,8.16,4,Slow response from support,0
+CUST1289,Aarav,user289@example.com,01-11-2024,10-02-2026,North,PREMIUM,189.73,19,very good,1
+CUST1290,Aarav,,03-02-2025,31-03-2026,Central,,10.87,16,,1
+CUST1291,Rahul,user291@example.com,12-10-2025,26-12-2026,South,Premium,404.05,5,Slow response from support,0
+CUST1292,Priya,user292@example.com,23-06-2025,14-12-2026,East,basic,129.95,11,Excellent!,1
+CUST1293,Aarav,user293@example.com,29-07-2024,27-02-2026,North,basic,125.39,7,Slow response from support,1
+CUST1294,Priya,user294@example.com,16-02-2024,08-03-2025,West,,278.59,1,Need more features,0
+CUST1295,Sneha,user295@example.com,07-06-2024,29-03-2026,South,,393.27,18,Great service,0
+ CUST1296 ,Rahul,user296@example.com,06-03-2025,05-07-2026,,Enterprise,139.19,2,Great service,1
+CUST1297,Rahul,user297@example.com,02-02-2022,02-09-2022,Central,Premium,295.58,12,,0
+CUST1298,Rahul,user298@example.com,06-03-2025,08-07-2027,,,425.47,17,Excellent!,1
+CUST1299,,user299@example.com,10-06-2022,04-11-2023,South,,374,11,Slow response from support,0
+CUST1300,Aarav,user300@example.com,05-06-2022,19-05-2023,,Enterprise,304.56,19,,1
+CUST1301,Rahul,user301@example.com,11-07-2024,25-11-2025,,PREMIUM,-117.93,17,Excellent!,1
+CUST1302,Priya,user302@example.com,15-09-2025,09-10-2026,North,Enterprise,47.42,19,App crashes sometimes,1
+CUST1303,Fatima,user303@example.com,12-11-2022,06-12-2023,East,Basic,357.28,20,Excellent!,0
+CUST1304,Priya,user304@example.com,07-07-2022,12-07-2022,South,Basic,471.77,14,,1
+CUST1305,Aarav,user305@example.com,19-01-2023,04-04-2024,North,Enterprise,227.18,17,Slow response from support,1
+CUST1306,John,user306@example.com,09-02-2025,15-05-2025,West,basic,300.48,10,Great service,1
+CUST1307,Rahul,user307@example.com,23-06-2022,04-07-2024,South,Enterprise,451.06,7,Excellent!,0
+CUST1308,John,user308@example.com,09-09-2023,09-06-2024,West,Enterprise,249.1,2,Excellent!,0
+CUST1309,Sneha,user309@example.com,18-09-2024,28-11-2026,West,Basic,43.08,8,very good,0
+CUST1310,Fatima,user310@example.com,05-10-2022,12-08-2023,West,Enterprise,8.35,12,Excellent!,1
+CUST1311,Fatima,user311@example.com,31-05-2024,13-09-2026,Central,,412.65,20,,0
+CUST1312,,user312@example.com,16-02-2023,20-06-2024,Central,,160.52,12,,1
+CUST1313,Sneha,user313@example.com,12-05-2023,09-04-2024,Central,PREMIUM,191.15,12,Slow response from support,1
+CUST1314,,user314@example.com,04-01-2023,02-12-2024,,Enterprise,384.97,0,App crashes sometimes,1
+CUST1315,John,user315@example.com,22-05-2022,06-09-2024,South,Enterprise,424.66,13,Need more features,1
+CUST1316,,user316@example.com,10-09-2025,14-02-2026,Central,basic,359.04,12,very good,0
+CUST1317,Priya,user317@example.com,30-12-2024,01-06-2026,North,,462.13,13,,0
+CUST1318,Fatima,user318@example.com,24-05-2023,27-03-2025,,basic,334.02,5,Excellent!,0
+CUST1319,Fatima,,05-08-2022,15-08-2022,West,basic,53.81,7,very good,0
+CUST1320,,user320@example.com,23-10-2025,17-06-2027,North,Enterprise,346.77,4,Great service,1
+CUST1321,Fatima,user321@example.com,01-05-2024,27-07-2024,West,,62.45,4,,1
+CUST1322,,user322@example.com,28-02-2023,14-08-2024,East,Basic,244.05,15,very good,0
+CUST1323,Priya,user323@example.com,07-09-2023,22-10-2023,,,406.04,3,,0
+CUST1324,,user324@example.com,03-12-2022,30-12-2024,West,Premium,125.74,5,,0
+CUST1325,Aarav,user325@example.com,09-04-2024,13-01-2026,,PREMIUM,96.3,20,Excellent!,1
+CUST1326,Sneha,user326@example.com,09-02-2023,14-05-2024,East,,298.14,12,App crashes sometimes,0
+CUST1327,Fatima,user327@example.com,09-05-2022,21-12-2023,South,basic,55.37,17,,0
+CUST1328,,user328example.com,22-08-2022,17-05-2023,Central,Basic,337,15,Excellent!,1
+CUST1329,Priya,user329@example.com,14-12-2023,08-12-2024,,Premium,423.53,19,,0
+CUST1330,Rahul,user330@example.com,04-10-2023,01-02-2024,Central,basic,123.09,3,,0
+CUST1331,,user331@example.com,06-05-2024,06-01-2026,,PREMIUM,73.24,12,Need more features,1
+CUST1332,Rahul,user332@example.com,14-08-2025,07-02-2026,East,,279.68,15,Need more features,1
+ CUST1333 ,Rahul,user333@example.com,12-07-2024,07-04-2026,South,,31.54,11,very good,0
+CUST1334,,user334@example.com,26-02-2024,23-09-2025,,,255.19,15,very good,1
+CUST1335,John,user335@example.com,28-06-2024,10-11-2025,North,Enterprise,87.79,18,App crashes sometimes,0
+CUST1336,Priya,user336@example.com,06-04-2023,07-10-2024,East,,147.89,14,Slow response from support,1
+CUST1337,Sneha,user337@example.com,17-01-2025,10-05-2027,West,Basic,495.49,17,very good,0
+CUST1338,Fatima,user338@example.com,31-08-2025,09-10-2027,,,127.53,1,,1
+CUST1339,Fatima,user339@example.com,28-06-2022,20-09-2023,,,433.32,3,App crashes sometimes,0
+CUST1340,Sneha,user340@example.com,03-06-2025,12-03-2027,,Basic,216.94,19,App crashes sometimes,0
+CUST1341,John,user341@example.com,13-03-2025,07-03-2026,East,PREMIUM,268.48,19,,0
+CUST1342,Aarav,user342@example.com,02-07-2023,26-11-2025,East,,259.64,3,Excellent!,0
+CUST1343,Fatima,user343@example.com,05-09-2025,12-01-2026,,Premium,352.21,4,Need more features,0
+CUST1344,,user344@example.com,16-10-2025,22-11-2026,West,Basic,-247.28,18,Excellent!,1
+CUST1345,Fatima,user345@example.com,21-07-2025,12-10-2027,West,basic,440.66,2,,1
+CUST1346,Priya,user346@example.com,02-11-2023,19-06-2025,,PREMIUM,6.22,2,,1
+CUST1347,Fatima,user347@example.com,25-03-2024,03-11-2024,,Enterprise,484.22,6,,1
+CUST1348,Aarav,,23-11-2023,05-06-2025,North,Basic,291.08,18,,1
+CUST1349,,user349@example.com,06-07-2025,16-09-2027,West,Basic,419.17,0,Need more features,0
+CUST1350,John,user350@example.com,26-05-2024,19-12-2024,North,,497.87,4,Need more features,1
+CUST1351,,user351@example.com,09-01-2024,21-09-2024,,Enterprise,45.8,20,Great service,0
+CUST1352,,user352@example.com,25-04-2023,07-07-2024,North,Premium,329.47,3,App crashes sometimes,0
+CUST1353,Fatima,user353@example.com,30-04-2025,17-12-2025,,Basic,262.12,14,Great service,0
+CUST1354,Priya,user354@example.com,14-05-2024,24-04-2026,,,70.43,2,Excellent!,0
+CUST1355,Rahul,user355@example.com,29-07-2022,11-11-2022,,,160.11,9,Excellent!,0
+CUST1356,Fatima,user356@example.com,20-10-2022,29-12-2022,,Premium,267.6,0,very good,0
+CUST1357,Priya,user357@example.com,10-07-2025,15-08-2027,North,Premium,79.93,13,App crashes sometimes,1
+CUST1358,Rahul,user358@example.com,10-09-2022,05-05-2024,South,Enterprise,366.35,11,,1
+CUST1359,John,user359@example.com,13-08-2025,07-11-2025,South,PREMIUM,127.84,19,Great service,1
+CUST1360,Sneha,user360@example.com,27-05-2025,30-10-2026,West,basic,98.38,12,Great service,1
+CUST1361,Fatima,user361@example.com,19-08-2022,22-04-2023,East,Premium,252.29,19,Great service,0
+CUST1362,,user362@example.com,03-03-2024,01-08-2026,,Basic,420.29,13,Need more features,1
+CUST1363,Aarav,user363@example.com,04-02-2022,28-09-2023,,basic,38.43,8,Great service,0
+CUST1364,,user364@example.com,03-11-2024,23-08-2025,North,,316.14,16,Excellent!,1
+CUST1365,Priya,user365@example.com,03-01-2025,07-07-2026,Central,Premium,309.94,8,,0
+CUST1366,,user366@example.com,15-11-2022,17-05-2024,,,166.74,18,,0
+CUST1367,Aarav,user367@example.com,04-05-2023,02-07-2023,East,,126.02,13,very good,0
+CUST1368,Rahul,user368@example.com,09-09-2025,07-10-2027,West,Enterprise,91.94,0,Great service,0
+CUST1369,Rahul,user369example.com,07-12-2024,20-05-2026,,,392.58,8,,0
+ CUST1370 ,John,user370@example.com,05-07-2023,24-07-2025,Central,Basic,443.78,0,Excellent!,1
+CUST1371,,user371@example.com,23-06-2023,21-06-2025,Central,Enterprise,487.65,20,very good,0
+CUST1372,John,user372@example.com,24-04-2022,17-09-2023,,Basic,430.38,5,Need more features,1
+CUST1373,Aarav,user373@example.com,21-03-2025,09-02-2027,South,Basic,362.78,7,Great service,0
+CUST1374,,user374@example.com,24-08-2024,31-08-2025,South,Enterprise,194.57,4,Great service,0
+CUST1375,Fatima,user375@example.com,24-05-2023,23-07-2024,North,PREMIUM,458.35,10,Slow response from support,1
+CUST1376,Priya,user376@example.com,10-10-2025,02-12-2025,West,,93.78,16,Excellent!,0
+CUST1377,Aarav,,02-08-2023,02-10-2025,East,Premium,423.2,10,very good,0
+CUST1378,Fatima,user378@example.com,21-08-2023,20-03-2025,Central,basic,393.33,19,very good,0
+CUST1379,,user379@example.com,05-02-2023,24-02-2025,North,Premium,450.72,7,Great service,0
+CUST1380,,user380@example.com,14-01-2025,03-01-2026,,,319.79,0,Great service,1
+CUST1381,Aarav,user381@example.com,22-09-2023,06-01-2024,South,,106.57,7,very good,1
+CUST1382,,user382@example.com,28-07-2023,31-10-2023,,Basic,26.73,7,,1
+CUST1383,Aarav,user383@example.com,04-04-2025,10-07-2025,West,,255.19,20,Slow response from support,1
+CUST1384,Fatima,user384@example.com,25-09-2022,25-05-2023,West,Enterprise,149.38,10,,1
+CUST1385,Priya,user385@example.com,24-04-2023,09-07-2023,South,basic,472.06,4,Need more features,0
+CUST1386,,user386@example.com,12-08-2024,29-06-2025,East,basic,206.22,17,App crashes sometimes,1
+CUST1387,Sneha,user387@example.com,27-06-2023,15-11-2025,,,-64.36,5,Great service,1
+CUST1388,Aarav,user388@example.com,03-11-2023,02-04-2024,,Enterprise,50.15,7,Excellent!,1
+CUST1389,Sneha,user389@example.com,17-06-2023,03-10-2025,North,basic,495.38,0,very good,1
+CUST1390,Sneha,user390@example.com,28-07-2022,28-10-2024,South,Premium,397.94,3,Great service,0
+CUST1391,Priya,user391@example.com,31-03-2024,16-04-2025,North,Basic,344.71,20,,0
+CUST1392,Priya,user392@example.com,09-02-2023,01-12-2024,North,basic,224.5,4,,0
+CUST1393,Aarav,user393@example.com,14-04-2022,03-10-2022,West,,462.45,13,very good,1
+CUST1394,,user394@example.com,23-05-2024,15-11-2024,South,Basic,180.2,5,,1
+CUST1395,,user395@example.com,11-06-2025,07-03-2027,Central,basic,310.4,20,very good,1
+CUST1396,Sneha,user396@example.com,05-05-2022,02-08-2022,,,143.49,4,App crashes sometimes,1
+CUST1397,,user397@example.com,18-01-2025,11-04-2027,East,PREMIUM,14.67,12,very good,1
+CUST1398,Sneha,user398@example.com,25-10-2024,19-09-2025,North,,197.25,5,,0
+CUST1399,Rahul,user399@example.com,30-07-2023,27-09-2023,North,Premium,405.28,15,App crashes sometimes,1
+CUST1400,Fatima,user400@example.com,07-09-2025,11-05-2026,,,136.93,1,Excellent!,0
+CUST1401,Fatima,user401@example.com,22-12-2022,20-06-2023,Central,PREMIUM,122.09,10,Great service,1
+CUST1402,,user402@example.com,19-10-2022,17-05-2024,North,Basic,474.44,15,Need more features,1
+CUST1403,Fatima,user403@example.com,26-04-2022,20-12-2022,Central,Premium,302.82,0,Great service,1
+CUST1404,Rahul,user404@example.com,25-09-2022,08-09-2023,Central,,359.88,10,Great service,0
+CUST1405,Fatima,user405@example.com,18-10-2022,18-12-2024,,,59.91,16,Slow response from support,1
+CUST1406,Rahul,,21-03-2024,11-11-2025,,basic,55.01,9,Need more features,1
+ CUST1407 ,Rahul,user407@example.com,02-08-2025,13-12-2026,West,Enterprise,326.34,5,App crashes sometimes,1
+CUST1408,Rahul,user408@example.com,27-08-2023,04-01-2024,Central,Enterprise,92.97,0,Great service,1
+CUST1409,Fatima,user409@example.com,06-06-2025,18-01-2026,,Basic,321.63,3,Need more features,1
+CUST1410,,user410example.com,03-05-2023,22-04-2024,North,Enterprise,491.28,5,,0
+CUST1411,Aarav,user411@example.com,06-03-2023,16-11-2023,North,basic,348.12,11,Slow response from support,1
+CUST1412,,user412@example.com,16-06-2024,06-07-2026,East,PREMIUM,212.73,5,very good,1
+CUST1413,,user413@example.com,08-02-2024,21-05-2024,North,,415.26,18,Need more features,0
+CUST1414,Fatima,user414@example.com,10-03-2022,05-01-2023,South,basic,14.94,8,Slow response from support,0
+CUST1415,Aarav,user415@example.com,26-11-2022,14-12-2024,West,,42.13,2,very good,1
+CUST1416,Fatima,user416@example.com,04-12-2022,16-08-2024,South,Premium,445.43,5,Slow response from support,0
+CUST1417,John,user417@example.com,18-04-2024,01-04-2026,South,Basic,279.29,17,,1
+CUST1418,Fatima,user418@example.com,12-04-2022,19-05-2023,North,basic,288.03,15,Great service,0
+CUST1419,Priya,user419@example.com,29-06-2022,26-04-2023,North,Premium,412.83,20,App crashes sometimes,1
+CUST1420,John,user420@example.com,16-12-2022,29-09-2024,,basic,149.45,2,Slow response from support,1
+CUST1421,Rahul,user421@example.com,22-08-2024,04-01-2026,East,basic,447.96,8,Excellent!,0
+CUST1422,John,user422@example.com,27-01-2024,05-08-2024,South,,225.66,8,very good,1
+CUST1423,,user423@example.com,05-07-2023,01-02-2025,,PREMIUM,35.51,3,,0
+CUST1424,Sneha,user424@example.com,11-04-2023,28-10-2024,West,Enterprise,35.19,12,very good,1
+CUST1425,,user425@example.com,11-06-2022,20-07-2023,South,Premium,451.87,1,Slow response from support,0
+CUST1426,,user426@example.com,10-03-2023,14-06-2025,South,,100.4,1,Slow response from support,1
+CUST1427,Priya,user427@example.com,08-07-2025,06-12-2025,West,PREMIUM,417.88,8,Slow response from support,1
+CUST1428,,user428@example.com,24-03-2024,10-10-2025,North,basic,166.43,8,Great service,1
+CUST1429,Priya,user429@example.com,03-11-2022,03-04-2023,,Enterprise,285.46,18,Slow response from support,0
+CUST1430,,user430@example.com,01-01-2025,19-12-2025,North,Premium,-439.56,8,very good,1
+CUST1431,,user431@example.com,19-07-2023,03-09-2024,East,,76.21,19,Great service,1
+CUST1432,Fatima,user432@example.com,02-05-2023,21-06-2023,,,374.15,8,Great service,1
+CUST1433,Rahul,user433@example.com,13-09-2023,27-07-2024,East,,143.77,15,App crashes sometimes,0
+CUST1434,Sneha,user434@example.com,26-06-2024,27-08-2026,West,Premium,413.78,8,Slow response from support,1
+CUST1435,Rahul,,13-04-2024,11-05-2026,North,Enterprise,244.81,16,Great service,1
+CUST1436,Sneha,user436@example.com,03-11-2024,21-12-2025,,Premium,72.15,16,Need more features,0
+CUST1437,John,user437@example.com,29-04-2022,09-01-2023,East,,21.37,1,App crashes sometimes,1
+CUST1438,Fatima,user438@example.com,08-08-2024,07-01-2026,West,PREMIUM,201.49,3,App crashes sometimes,0
+CUST1439,Rahul,user439@example.com,02-07-2024,30-12-2024,,Enterprise,480.46,15,,1
+CUST1440,Sneha,user440@example.com,05-07-2022,22-04-2023,,Premium,18.59,1,App crashes sometimes,0
+CUST1441,,user441@example.com,19-10-2025,18-05-2026,South,,138.2,13,Great service,0
+CUST1442,John,user442@example.com,21-12-2022,27-08-2024,West,basic,401.43,7,,1
+CUST1443,Priya,user443@example.com,16-12-2023,30-03-2025,North,PREMIUM,129.74,14,Excellent!,1
+ CUST1444 ,Priya,user444@example.com,18-09-2025,29-01-2028,West,Basic,420.49,17,,1
+CUST1445,Sneha,user445@example.com,20-11-2023,29-08-2024,South,PREMIUM,322.09,8,,1
+CUST1446,Rahul,user446@example.com,08-05-2023,05-07-2023,,Basic,403.69,19,,1
+CUST1447,,user447@example.com,04-09-2025,26-01-2027,,Basic,498.75,8,Excellent!,1
+CUST1448,,user448@example.com,09-04-2025,04-04-2027,,Enterprise,497.4,6,App crashes sometimes,1
+CUST1449,Priya,user449@example.com,04-11-2024,07-09-2025,West,Premium,423.48,17,,0
+CUST1450,Sneha,user450@example.com,14-06-2023,25-06-2025,East,Premium,405.13,5,Slow response from support,1
+CUST1451,John,user451example.com,21-09-2023,24-11-2024,West,,395.1,10,,1
+CUST1452,Sneha,user452@example.com,30-08-2022,24-12-2023,Central,Basic,31.57,20,very good,0
+CUST1453,Rahul,user453@example.com,26-10-2025,20-11-2026,South,Enterprise,267.27,13,Need more features,0
+CUST1454,Rahul,user454@example.com,18-04-2024,22-11-2025,,Basic,446.96,14,,0
+CUST1455,Aarav,user455@example.com,25-09-2024,31-08-2025,West,Enterprise,317.36,5,Great service,1
+CUST1456,Priya,user456@example.com,05-03-2023,22-04-2025,South,PREMIUM,387.9,18,very good,0
+CUST1457,Aarav,user457@example.com,07-06-2024,17-03-2026,North,PREMIUM,217.56,13,Excellent!,1
+CUST1458,Aarav,user458@example.com,13-02-2023,02-03-2025,,Basic,189.69,0,App crashes sometimes,1
+CUST1459,Priya,user459@example.com,07-07-2025,28-07-2027,West,PREMIUM,128.17,11,Need more features,1
+CUST1460,,user460@example.com,20-04-2025,27-02-2026,,PREMIUM,87.67,1,,1
+CUST1461,Fatima,user461@example.com,06-05-2025,24-10-2026,,Premium,172.23,4,very good,1
+CUST1462,Sneha,user462@example.com,04-12-2022,14-03-2025,,Basic,204.68,7,Need more features,0
+CUST1463,John,user463@example.com,22-04-2025,20-09-2026,,PREMIUM,88.65,11,Excellent!,0
+CUST1464,Aarav,,30-06-2025,18-08-2025,,Basic,298.99,1,Great service,0
+CUST1465,Rahul,user465@example.com,03-05-2024,31-07-2025,South,,193.23,17,very good,1
+CUST1466,,user466@example.com,14-07-2025,23-07-2025,,Basic,154.05,3,Need more features,1
+CUST1467,,user467@example.com,13-11-2024,19-11-2026,South,PREMIUM,310.76,9,Slow response from support,0
+CUST1468,,user468@example.com,14-02-2023,20-04-2025,East,Premium,135.18,16,,0
+CUST1469,Sneha,user469@example.com,22-03-2022,04-10-2023,North,Basic,250.7,6,,1
+CUST1470,Priya,user470@example.com,07-10-2025,06-01-2026,,PREMIUM,453.91,18,Need more features,1
+CUST1471,John,user471@example.com,03-06-2022,12-06-2024,East,basic,363.17,8,very good,0
+CUST1472,Fatima,user472@example.com,13-04-2022,24-07-2022,West,,407.52,1,,1
+CUST1473,Rahul,user473@example.com,26-08-2022,01-12-2022,East,Enterprise,-426.37,1,Need more features,0
+CUST1474,Rahul,user474@example.com,15-06-2024,13-03-2026,North,basic,137.81,2,,1
+CUST1475,Rahul,user475@example.com,30-03-2024,10-07-2025,North,Premium,139.56,12,Excellent!,1
+CUST1476,Rahul,user476@example.com,01-05-2022,11-09-2024,Central,basic,83.9,13,very good,1
+CUST1477,Priya,user477@example.com,05-01-2024,22-09-2025,West,basic,19.26,4,very good,1
+CUST1478,Fatima,user478@example.com,05-04-2022,08-06-2022,Central,PREMIUM,134.5,10,App crashes sometimes,0
+CUST1479,,user479@example.com,20-06-2025,25-09-2025,South,,219.26,7,,1
+CUST1480,,user480@example.com,17-02-2025,06-11-2026,,Premium,32.01,20,very good,0
+ CUST1481 ,Aarav,user481@example.com,03-06-2022,11-07-2024,Central,Premium,248.37,7,,1
+CUST1482,,user482@example.com,01-02-2025,21-11-2026,,PREMIUM,192.43,7,very good,0
+CUST1483,,user483@example.com,06-07-2024,04-10-2024,,,429.01,14,Slow response from support,1
+CUST1484,John,user484@example.com,06-02-2022,22-05-2022,Central,PREMIUM,204.7,1,Slow response from support,0
+CUST1485,Sneha,user485@example.com,28-02-2023,29-12-2024,,basic,337.38,10,Great service,1
+CUST1486,,user486@example.com,11-11-2023,06-06-2025,North,Basic,384.87,19,,1
+CUST1487,Priya,user487@example.com,11-09-2025,26-04-2026,North,Premium,6.09,11,,1
+CUST1488,Sneha,user488@example.com,05-10-2024,25-02-2025,South,Basic,411.81,13,,0
+CUST1489,,user489@example.com,15-03-2024,21-10-2024,North,,231.24,6,Slow response from support,1
+CUST1490,,user490@example.com,08-10-2025,02-06-2027,North,PREMIUM,65.99,14,Need more features,1
+CUST1491,Rahul,user491@example.com,10-04-2022,28-10-2023,,,467.98,18,Need more features,1
+CUST1492,,user492example.com,20-09-2022,04-01-2023,Central,,196.77,19,Excellent!,1
+CUST1493,Rahul,,24-05-2023,28-02-2024,South,basic,201.95,10,very good,1
+CUST1494,Sneha,user494@example.com,18-05-2025,04-05-2027,South,Premium,443.79,16,,1
+CUST1495,Fatima,user495@example.com,02-07-2025,03-07-2027,,Basic,148.84,11,Need more features,0
+CUST1496,,user496@example.com,23-12-2023,20-07-2025,,Basic,242.78,18,,1
+CUST1497,Sneha,user497@example.com,06-12-2024,25-03-2025,East,,17.51,4,Great service,0
+CUST1498,Sneha,user498@example.com,26-11-2022,15-09-2023,,PREMIUM,343.28,4,,0
+CUST1499,Sneha,user499@example.com,08-03-2022,10-03-2023,Central,,407.94,3,Excellent!,0
